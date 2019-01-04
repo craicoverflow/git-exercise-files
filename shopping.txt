@@ -16,7 +16,7 @@ iceberg lettuce
 rice
 soup
 ice cream
-sugar
+brown sugar
 flour
 butter
 coffee
