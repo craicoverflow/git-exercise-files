@@ -1,17 +1,17 @@
 Shopping List
 
-red apples
+apples
 6 bananas
 vanilla yogurt
 6% milk
 wheat bread
-cereal
+chocolate cereal
 12 eggs
-bacon
+smoked bacon
 orange juice
 grapes
 lemons
-lettuce
+iceberg lettuce
 rice
 soup
 ice cream
